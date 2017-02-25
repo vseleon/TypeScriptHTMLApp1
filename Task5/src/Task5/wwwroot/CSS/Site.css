@@ -1,0 +1,24 @@
+﻿body {
+    
+}
+div.sidebar{
+    background: #abeafb;
+    width: 260px; 
+    height:411px;
+    padding: 5px;
+    padding-right: 20px;  
+    float: left;
+}
+img.photo{
+    width:200px;
+}
+div.main{
+    background:#ccd4d4;
+
+}
+div.footer{
+    background:#000000;
+}
+div.center{
+    background:#ffffff;
+}
